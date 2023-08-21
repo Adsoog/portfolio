@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://Adsoog.github.io',
-  base: '/Portfolio-Astro',
+  base: '/portfolio',
 });
